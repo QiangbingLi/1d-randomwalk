@@ -19,5 +19,5 @@ $ ./randomwalk
 
 ## screenshots of unbiased and biased run
 
-![unbiased](https://github.com/QiangbingLi/1d-randomwalk/blob/main/Capture.PNG "unbiased")
-![biased](https://github.com/QiangbingLi/1d-randomwalk/blob/main/Capture-biased.PNG "biased")
+![unbiased](https://github.com/QiangbingLi/1d-randomwalk/blob/main/captures/Capture.PNG "unbiased")
+![biased](https://github.com/QiangbingLi/1d-randomwalk/blob/main/captures/Capture-biased.PNG "biased")
