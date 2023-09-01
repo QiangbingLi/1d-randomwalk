@@ -124,7 +124,7 @@ void MainWidget::reset()
 
 void MainWidget::enableStart()
 {
-	if (probEdit->text() != NULL && stepsEdit->text() != NULL)
+	if (probEdit->text() != nullptr && stepsEdit->text() != nullptr)
 		startButton->setEnabled(true);	
 }
 
