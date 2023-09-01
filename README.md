@@ -11,7 +11,9 @@ $ sudo apt install libgl-dev
 
 ## Build it.
 $ qmake6 -project
+
 $ qmake6 randomwalk.pro
+
 $ make
 
 ## Run it.
