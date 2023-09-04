@@ -1,4 +1,4 @@
-# A GUI written with QT C++ to simulate and visualize 1d random walk 
+# A GUI to simulate and visualize 1d random walk 
 
 Tested to work with QT6 in Ubuntu22.0.4
 
